@@ -136,6 +136,13 @@ MIT — Voir `LICENSE`
 
 ---
 
+## SCREENSHOTS
+
+<img width="1576" height="1141" alt="Screenshot 2026-09-19 at 03-56-44 📊 TRADING MONITOR - Twelve Data" src="https://github.com/user-attachments/assets/1288532e-7a76-48bd-bedf-3512db7fb601" />
+
+
+---
+
 <div align="center">
 
 ### 🇫🇷 Gunout · 2026
