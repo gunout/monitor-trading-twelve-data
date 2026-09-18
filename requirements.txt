@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+Flask-SocketIO
+twelvedata
+python-dotenv
+pandas
+numpy
+scikit-learn
+pytz
