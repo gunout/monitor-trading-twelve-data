@@ -1,0 +1,33 @@
+# Environment
+.env
+.env.local
+venv/
+env/
+mon/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data
+*.pkl
+*.csv
+*.log
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
